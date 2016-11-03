@@ -23,23 +23,34 @@ Color.isColor = function(rgb){
 };
 
 Color.redIntensity = function(rgb){
-  let red =
-
+  let red = rgb[0]/255*100;
+   Math.Round()
+   return red;
 
 };
 
 //greenIntensity
 Color.greenIntensity = function(rgb){
-  let green = 
-
+  let green = rgb[1]/255*100;
+   Math.Round();
+   return green;
 
 };
 //blueIntensity
 Color.blueIntensity = function(rgb){
-
+  let blue = rgb[2]/255*100;
+   Math.Round();
+   return blue;
 
 };
 //brightness
+brightness = function{
+  rgb brightness = rgb[0+1+2]/3
+  return brightness
 
-
+}
 //complement
+function = complement(list){
+  var comp = [];
+  for(var )
+}
