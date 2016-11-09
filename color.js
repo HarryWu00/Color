@@ -52,5 +52,9 @@ brightness = function{
 //complement
 function = complement(list){
   var comp = [];
-  for(var )
+  for(var comp = 0,comp<3, comp++){
+    comp.push;
+  }
+    ruturn comp;
+  }
 }
